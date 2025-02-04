@@ -1,2 +1,2 @@
-# DeluxePG-PrimeGoapi
-Api
+# MagicTest
+Apis
