@@ -80,7 +80,7 @@
         "forcible": "版本更新公告 2.70.1\n1.新活動上線：砸金蛋\n2.優化了遊戲進入的速度"
       }
     },
-    "forceUpdate": true,
+    "forceUpdate": false,
     "newVersionCode": 300000,
     "smallerThanVersion": 7.0,
     "forceUpdateMinVersionCode": 1.0,
