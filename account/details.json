@@ -1,0 +1,14 @@
+{
+    "userId": "666",
+    "sex": 1,
+    "nickName": "DELUXE",
+    "birthday": "1-1-1",
+    "details": "DEVELOPER",
+    "diamonds": 0,
+    "golds": 0,
+    "picUrl": "",
+    "picType": 0,
+    "telephone": null,
+    "hasPassword": true,
+    "vip": 3
+}
