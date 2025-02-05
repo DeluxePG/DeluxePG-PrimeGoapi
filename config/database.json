@@ -1,4 +1,4 @@
 {
  "databaseType": "MongoDB Atlas",
- "databaseUrl": "mongodb+srv://Lux:kBW9PuM2cPQ3TE3s@cfgddev.pgxzm.mongodb.net/?retryWrites=true&w=majority&appName=666Dev"
+ "databaseUrl": "mongodb+srv://Lux:kBW9PuM2cPQ3TE3s@cluster0.rrl1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 }
