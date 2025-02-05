@@ -1,4 +1,4 @@
 {
  "databaseType": "MongoDB Atlas",
- "databaseUrl": "mongodb+srv://MagicGO20:MagicGO20@magicgoapis.tvsi6.mongodb.net/?retryWrites=true&w=majority&appName=MagicGOapis"
+ "databaseUrl": "mongodb+srv://Luxury:<db_password>@cluster0.rrl1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 }
