@@ -12,7 +12,7 @@
         "oneIncreaseValue": 0,
         "rewardInfoList": [
             {"pic":"http://192.168.1.35:3888/gold_block.png","rewardId":0,"rewardName":"","rewardType":""},
-            {"pic":"","rewardId":1,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":1,"rewardName":"test","rewardType":"test"},
             {"pic":"","rewardId":2,"rewardName":"","rewardType":""},
             {"pic":"","rewardId":3,"rewardName":"","rewardType":""},
 
