@@ -1,4 +1,26 @@
 [
+            {
+      "id": 320,
+      "typeId": 8,
+      "camera": "top",
+      "name": "Blue sweater top",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsiconsclothes_tops.1544428156121.57",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "clothes_tops.60",
+      "details": "Blue sweater top",
+      "price": 6000,
+      "currency": 2,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    },
         {
       "id": 319,
       "typeId": 8,
