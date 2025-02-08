@@ -1,6 +1,6 @@
 [
             {
-      "id": 320,
+      "id": 342,
       "typeId": 8,
       "camera": "top",
       "name": "Blue sweater top",
@@ -8,7 +8,7 @@
       "status": 0,
       "sex": 0,
       "tag": [],
-      "resourceId": "clothes_tops.60",
+      "resourceId": "clothes_tops.72",
       "details": "Blue sweater top",
       "price": 6000,
       "currency": 2,
